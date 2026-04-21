@@ -13,10 +13,12 @@ assets/personal-asset-index.json
 node_modules/
 *.swp
 .idea/
-.vscode/
 Thumbs.db
 
 # Verification artifacts（截图、临时测试脚本）
 demos/_frames_*.png
 demos/_verify.js
 demos/_verify.mjs
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
